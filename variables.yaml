@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.jaya123.shop # submit your host
+REDIS_HOST: redis.jaya123.shop
+MYSQL_HOST: mysql.jaya123.shop
+RABBITMQ_HOST: rabbitmq.jaya123.shop
+CATALOGUE_HOST: catalogue.jaya123.shop
+USER_HOST: user.jaya123.shop
+CART_HOST: cart.jaya123.shop
+SHIPPING_HOST: shipping.jaya123.shop
+PAYMENT_HOST: payment.jaya123.shop
+DISPATCH_HOST: dispatch.jaya123.shop
