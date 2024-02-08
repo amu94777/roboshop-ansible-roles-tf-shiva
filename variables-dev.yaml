@@ -8,5 +8,5 @@ CART_HOST: cart.app-dev.jaya123.shop
 SHIPPING_HOST: shipping.app-dev.jaya123.shop
 PAYMENT_HOST: payment.app-dev.jaya123.shop
 DISPATCH_HOST: dispatch.app-dev.jaya123.shop 
-NEXUS_URL : http://3.237.171.173:8081/repository
+NEXUS_URL : http://44.203.227.171:8081/repository
 group_id : "com/roboshop"
