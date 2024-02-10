@@ -8,5 +8,5 @@ CART_HOST: cart.app-dev.jaya123.shop
 SHIPPING_HOST: shipping.app-dev.jaya123.shop
 PAYMENT_HOST: payment.app-dev.jaya123.shop
 DISPATCH_HOST: dispatch.app-dev.jaya123.shop 
-NEXUS_URL : http://18.233.111.199:8081/repository  #### when u press copy option in nexus ,it gives this url,,,so we store artifacts init this url
+NEXUS_URL :   http://172.31.13.69:8081/repository #### when u press copy option in nexus ,it gives this url,,,so we store artifacts init this url
 group_id : "com/roboshop"
